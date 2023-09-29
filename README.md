@@ -6,14 +6,7 @@ We have divided the package into three folders (one for each research question):
 
 1. Taxonomy Generation:
 
-In this folder, we present the source code for mining Github repositories with the relevant criteria. 
-
-
-
-
-
-
-
+In this folder, we present the source code for mining Github repositories with the relevant criteria. The file README.md inside this folder contains information information about all the files in it.
 
 2. User Study:
 
