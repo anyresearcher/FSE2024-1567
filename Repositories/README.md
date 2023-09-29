@@ -13,3 +13,5 @@ This folder contains the files for RQ1. It has the source code and the taxonomy 
 7. We manually label to get model related changes by answering the question:Does the issue deal with requirement change in pre-trained model? We get 165 issues in 42 repositories.
    
 9. Repositories.xlsx contains a comprehensive sheets of all the steps mentioned above as well as the final filetred repositories which are in the sheet named "final".
+
+10. We have also attached a pdf file named "Examples of Change Types" which gives one example each of the identified changes.
